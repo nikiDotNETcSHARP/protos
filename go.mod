@@ -1,4 +1,4 @@
-module protos
+module github.com/nikiDotNETcSHARP/protos
 
 go 1.24
 
